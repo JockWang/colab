@@ -1,2 +1,2 @@
 # colab
-A backup of python notebook in google colab.
+A backup of python notebooks in google colab.
